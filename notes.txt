@@ -1,6 +1,0 @@
-Features of Javascript -
-
-1) Scripting languages
-2) Light -Weight
-3) Versatile
-4) Flexible
